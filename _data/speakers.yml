@@ -56,14 +56,14 @@
     - {name: "email", link: "hmitre@cimat.mx"}
 -
   id: 5
-  name: "Ing. Ángel Gustavo"
-  surname: "Lázaro Sánchez"
-  company: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas"
-  title: "Estudiante de Maestría en Ingeniería de Software"
+  name: "Dr. Mario"
+  surname: "González Salazar"
+  company: ""
+  title: ""
   bio: "TBD."
   thumbnailUrl: ValentynShybanov.jpg
   rockstar: true
   ribbon:
     - {abbr: "CIMAT", title: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas", url: "http://www.ingsoft.mx/"}
   social:
-    - {name: "email", link: "hmitre@cimat.mx"}
+    - {name: "email", link: "remylebv@cimat.mx"}
