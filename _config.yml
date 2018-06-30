@@ -103,33 +103,33 @@ mapMobileCenterCoordinates: "22.7860891, -102.6161386"
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Computación Centrada en el Humano: "
 twitterHashTag: "MeetupHCC"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Con el apoyo de"
-partnersTitle: "Partners"
+organizersTitle: "Creado por"
+partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Conviértete en sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://github.com/HCC-CIMAT/", icon: "github"}
+ - {link: "https://twitter.com/MeetupHCC", icon: "twitter"}
+ - {link: "https://www.facebook.com/cimatzac/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.ingsoft.mx/", text: "Grupo de Ingeniería de Software, CIMAT"}
+   - {link: "https://cimat.mx/", text: "Centro de Investigación en Matemáticas, A.C."}
  -
   title: "Contacto"
   links:
    - {link: "mailto:hmitre@cimat.mx", text: "hmitre@cimat.mx"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ # -
+ #  title: "FAQ"
+ #  links:
+ #   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Últimas noticias"
