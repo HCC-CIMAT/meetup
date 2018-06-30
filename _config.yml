@@ -113,7 +113,7 @@ partnersC4sponsorsButton: "Conviértete en sponsor"
 # Footer
 socialLinks:
  - {link: "https://github.com/HCC-CIMAT/", icon: "github"}
- - {link: "https://twitter.com/MeetupHCC", icon: "twitter"}
+ - {link: "https://twitter.com/cimat_zacatecas", icon: "twitter"}
  - {link: "https://www.facebook.com/cimatzac/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
