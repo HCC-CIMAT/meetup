@@ -22,7 +22,7 @@
   description: "Descripción."
   subtype: presentation
   speakers: [1]
-  complexity: "Intermediate"
+  complexity: "Avanzado"
   presentation: ""
   video: ""
 -
@@ -31,7 +31,7 @@
   description: "Descripción."
   subtype: presentation
   speakers: [3]
-  complexity: "Intermediate"
+  complexity: "Intermedio"
   presentation: ""
 -
   id: 004
@@ -39,16 +39,16 @@
   description: "Descripción."
   subtype: keynote
   speakers: [1, 2]
-  complexity: "Beginner"
+  complexity: "Básico"
   presentation: ""
   video: ""
 -
   id: 005
   title: "Introducción a Deep Learning con Keras"
-  description: "Descripción."
+  description: 'El aprendizaje profundo es utilizado en la actualidad por grandes compañías tecnológicas (como Google y Facebook) para la solución de diversos problemas. En este taller aprenderemos bases de redes neuronales, programaremos un perceptrón simple con Python e introduciremos Keras: "The Python Deep Learning library".'
   subtype: workshop
   speakers: [3]
-  complexity: "Expert"
+  complexity: "Avanzado"
   presentation: ""
   video: ""
 -
@@ -57,7 +57,7 @@
   description: "Descripción."
   subtype: presentation
   speakers: [2]
-  complexity: "Expert"
+  complexity: "Intermedio"
   presentation: ""
   video: ""
 -
@@ -66,7 +66,7 @@
   description: "Descripción."
   subtype: presentation
   speakers: [4]
-  complexity: "Expert"
+  complexity: "Intermedio"
   presentation: ""
   video: ""
 -
@@ -75,7 +75,7 @@
   description: "Descripción."
   subtype: presentation
   speakers: [2]
-  complexity: "Expert"
+  complexity: "Intermedio"
   presentation: ""
   video: ""
 -
@@ -84,16 +84,16 @@
   description: "Descripción."
   subtype: workshop
   speakers: [2]
-  complexity: "Expert"
+  complexity: "Básico"
   presentation: ""
   video: ""
 -
   id: 010
-  title: "Experiencia de usuario en video juegos"
+  title: "Experiencia de usuario en videojuegos"
   description: "Descripción."
   subtype: presentation
   speakers: [5]
-  complexity: "Expert"
+  complexity: "Básico"
   presentation: ""
   video: ""
 -
@@ -102,7 +102,7 @@
   description: "Descripción."
   subtype: presentation
   speakers: [1]
-  complexity: "Expert"
+  complexity: "Intermedio"
   presentation: ""
   video: ""
 -

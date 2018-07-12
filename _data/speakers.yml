@@ -4,40 +4,41 @@
   surname: "Lara-Álvarez"
   company: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas"
   title: "Investigador de Cátedras CONACYT"
-  bio: "TBD."
-  thumbnailUrl: DawidOstrowski.jpg
+  bio: "Carlos Lara es doctor en ciencias en Ingeniería Eléctrica con opción en sistemas computacionales y tiene una maestría en Ingeniería Eléctrica por la Universidad Michoacana, es Ingeniero en Comunicaciones y Electrónica por la Universidad de Guanajuato. El Dr. Lara ha participado en diferentes proyectos de desarrollo e innovación tecnológica como el “M2M Sensor Fusion for Adaptive Driver Warning Systems” (Intel—Universidad Nacional de  Taiwán), El ”Smart—Guide II” sistema para guiar invidentes  (QUALTOP— CINVESTAV Guadalajara) y el Sistema de Detección de Marcas y Herrajes (Plenumsoft-CIMAT). Actualmente participa en el proyecto “Optimización de procesos industriales basada en simuladores, interfaces y aseguramiento de software” en el Centro de Investigación en Matemáticas (CIMAT), unidad Zacatecas, donde realiza investigación en Interfaces hombre-computadora. Carlos Lara ha sido administrador educativo, y tiene amplia experiencia docente. Además cuenta con una especialidad en diseño de entornos virtuales de aprendizaje para la formación de jóvenes y adultos. Sus áreas de interés son: desarrollo de interfaces de usuario, robótica móvil, reconocimiento de patrones, inferencia bayesiana, agentes inteligentes, y aplicaciones de minería de datos."
+  thumbnailUrl: CarlosLara.jpg
   rockstar: true
   ribbon:
     - {abbr: "CIMAT", title: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas", url: "http://www.ingsoft.mx/"}
   social:
-    - {name: "email", link: "carlos.lara@cimat.mx"}
+    - {name: "email", link: "mailto:carlos.lara@cimat.mx"}
 -
   id: 2
   name: "Dr. Hugo A."
   surname: "Mitre-Hernández"
   company: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas"
   title: "Investigador Asociado"
-  bio: "TBD."
-  thumbnailUrl: MateuszHerych.jpg
+  bio: "Hugo Mitre es doctor  en ciencia y tecnología informática por la Universidad Carlos III de Madrid (2010) y miembro del Sistema Nacional de Investigadores (SNI) nivel 1. Actualmente es investigador asociado al Centro de Investigación en Matemáticas (CIMAT) Zacatecas, y líder del laboratorio de computación centrada en el humano (HCC, del ingles: Human-Centered Computing). Cuenta con experiencia en más de dieciséis proyectos y más de veinticinco publicaciones en HCC, ingeniería del software, gestión estratégica y gestión de conocimiento. Sus líneas actuales de investigación son la computación afectiva y cognitiva, y gestión del conocimiento."
+  thumbnailUrl: HugoMitre.jpg
   rockstar: true
   ribbon:
     - {abbr: "CIMAT", title: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas", url: "http://www.ingsoft.mx/"}
   social:
-    - {name: "email", link: "hmitre@cimat.mx"}
+    - {name: "email", link: "mailto:hmitre@cimat.mx"}
 -
   id: 3
   name: "Rodolfo"
   surname: "Ferro Pérez"
   company: "Universidad de Guanajuato + Centro de Investigación en Matemáticas, A.C. (CIMAT)"
   title: "Estudiante de Lic. en Matemáticas"
-  bio: "TBD."
-  thumbnailUrl: DmytroDanylyk.jpg
+  bio: "Hackatonero, entusiasta de ciencia y tecnología. Tech Lead @ future·lab, GitHub Campus Expert, asistente de investigación CONACYT y miembro del #TeamGuanajuato en Clubes de Ciencia México. Con interés en temas de interacción humano-computadora, inteligencia artificial y estadística. Ex-Google Student Ambassador."
+  thumbnailUrl: RodolfoFerro.jpg
   rockstar: true
   ribbon:
+    - {abbr: "CIMAT", title: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas", url: "http://www.ingsoft.mx/"}
+    - {abbr: "GCE", title: "GitHub Campus Experts Program", url: "https://githubcampus.expert/RodolfoFerro/"}
     - {abbr: "UG", title: "Universidad de Guanajuato", url: "http://www.ugto.mx/"}
-    - {abbr: "CIMAT", title: "Centro de Investigación en Matemáticas, A.C. (CIMAT)", url: "https://cimat.mx/"}
   social:
-    - {name: "email", link: "hmitre@cimat.mx"}
+    - {name: "email", link: "mailto:ferro@cimat.mx"}
     - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
     - {name: "github", link: "https://github.com/RodolfoFerro"}
     - {name: "site", link: "http://rodolfoferro.xyz/"}
@@ -48,12 +49,12 @@
   company: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas"
   title: "Estudiante de Maestría en Ingeniería de Software"
   bio: "TBD."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: FernandoGonzalez.jpeg
   rockstar: true
   ribbon:
     - {abbr: "CIMAT", title: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas", url: "http://www.ingsoft.mx/"}
   social:
-    - {name: "email", link: "hmitre@cimat.mx"}
+    - {name: "email", link: "mailto:hmitre@cimat.mx"}
 -
   id: 5
   name: "Dr. Mario"
@@ -61,9 +62,10 @@
   company: "ATA Creations"
   title: "Director y desarrollador de videojuegos"
   bio: "TBD."
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: MarioGonzalez.jpeg
   rockstar: true
   ribbon:
     - {abbr: "CIMAT", title: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas", url: "http://www.ingsoft.mx/"}
+    - {abbr: "ATA", title: "ATA Creations", url: "http://www.ingsoft.mx/"}
   social:
-    - {name: "email", link: "remylebv@cimat.mx"}
+    - {name: "email", link: "mailto:remylebv@cimat.mx"}
