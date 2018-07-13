@@ -62,6 +62,15 @@
   video: ""
 -
   id: 007
+  title: "Veo, veo: IoT"
+  description: "Descripción."
+  subtype: presentation
+  speakers: [6]
+  complexity: "Intermedio"
+  presentation: ""
+  video: ""
+-
+  id: 008
   title: "Si miras, hazlo ordenadamente: Similitud de rutas de fijaciones"
   description: "Descripción."
   subtype: presentation
@@ -70,7 +79,7 @@
   presentation: ""
   video: ""
 -
-  id: 008
+  id: 009
   title: "Tu pupila dice: ¡Qué difícil!"
   description: "Descripción."
   subtype: presentation
@@ -79,7 +88,7 @@
   presentation: ""
   video: ""
 -
-  id: 009
+  id: 010
   title: "Midiendo la atención con rastreadores oculares"
   description: "Descripción."
   subtype: workshop
@@ -88,7 +97,7 @@
   presentation: ""
   video: ""
 -
-  id: 010
+  id: 011
   title: "Experiencia de usuario en videojuegos"
   description: "Descripción."
   subtype: presentation
@@ -97,7 +106,7 @@
   presentation: ""
   video: ""
 -
-  id: 011
+  id: 012
   title: "Buscando al perdido"
   description: "Descripción."
   subtype: presentation
@@ -111,3 +120,12 @@
   place: "Recepción"
   description: "Cierre y fotografía oficial del evento."
   service: true
+-
+  id: 014
+  title: "Meetup HCC: industria, gobierno y ciencia"
+  description: "Es un panel para el diálogo de las problemáticas actuales en los sectores prioritarios para la creación de ideas de solución y potenciar proyectos integrales."
+  subtype: workshop
+  speakers: [7]
+  complexity: "Intermedio"
+  presentation: ""
+  video: ""
