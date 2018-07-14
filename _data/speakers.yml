@@ -76,7 +76,7 @@
   company: "Instituto Tecnológico de León"
   title: "Estudiante de Ing. en Sistemas Computacionales"
   bio: "TBD."
-  thumbnailUrl: HugoMitre.jpg
+  thumbnailUrl: FernandaOchoa.jpg
   rockstar: true
   ribbon:
     - {abbr: "GCE", title: "GitHub Campus Experts Program", url: "https://githubcampus.expert/FernandaOchoa/"}
@@ -91,7 +91,7 @@
   company: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas"
   title: "Director de CIMAT unidad Zacatecas"
   bio: "Cuauhtémoc Lemus Olalde es profesor investigador titular B, doctor en ciencias de la computación y desde hace seis años, director del Centro de Investigación en Matemáticas, A.C. (CIMAT), unidad Zacatecas, aunque forma parte de esta institución desde 2002, cuando se integró en la unidad Guanajuato. Actualmente es coordinador del Grupo de Ingeniería de Software del Cimat unidad Zacatecas y coordinador del Seminario en Tecnologías de Información y Software (Setys), desde agosto de 2007."
-  thumbnailUrl: HugoMitre.jpg
+  thumbnailUrl: CuauhtemocLemus.jpg
   rockstar: true
   ribbon:
     - {abbr: "CIMAT", title: "Centro de Investigación en Matemáticas, A.C. (CIMAT), Unidad Zacatecas", url: "http://www.ingsoft.mx/"}
