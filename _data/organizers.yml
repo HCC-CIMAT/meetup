@@ -2,9 +2,13 @@
   group: "Organizador principal"
   elements:
     - {name: "CIMAT", description: "Centro de Investigación en Matemáticas, A.C. (CIMAT) Unidad Zacatecas", link: "http://www.ingsoft.mx/", imageUrl: "cimat.png", width: "70px"}
+
 -
-  group: "Co-organizadores"
+  group: "Con el apoyo de"
   elements:
-    # - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    # - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    # - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "GitHub Campus Experts", description: "GitHub Campus Experts Program", link: "https://githubcampus.expert/", imageUrl: "github.png", width: "150px"}
+#   group: "Co-organizadores"
+#   elements:
+#     - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
+#     - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
+#     - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
