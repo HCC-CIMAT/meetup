@@ -99,7 +99,7 @@
 -
   id: 011
   title: "Experiencia de usuario en videojuegos"
-  description: "Descripción."
+  description: "La experiencia de usuario dentro de un videojuego es diferente al resto de los sistemas de software, esto se debe principalmente a su naturaleza lúdica y a su alto nivel interactivo. En esta presentación se hablará del reto que plantea entender y brindar la experiencia de usuario adecuada a los jugadores, y como se puede definir y diseñar en etapas tempranas del desarrollo de un videojuego. También se hablará de cómo un diseño adecuado de la experiencia de usuario puede ayudar a cumplir los objetivos que se persiguen al desarrollar un videojuego."
   subtype: presentation
   speakers: [5]
   complexity: "Básico"
