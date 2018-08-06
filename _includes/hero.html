@@ -21,11 +21,12 @@ div.transbox p {
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             <!-- <img src="{{ site.baseurl }}/img/sprites/logo-white.png" width="80px" alt="{{ about.title }}" style="margin-top: 100px;"> -->
-            <img src="{{ site.baseurl }}/img/sprites/logo-hcc.png" width="200px" alt="{{ about.title }}" style="margin-top: 150px;">
+            <img src="{{ site.baseurl }}/img/sprites/logo-hcc.png" width="175px" alt="{{ about.title }}" style="margin-top: 150px;">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            <h1 style="font-size:4.5em">{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <div class="transbox">
               <p>{{ site.eventDate }}</p>
+              <p>ENTRADA LIBRE</p>
             </div>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>

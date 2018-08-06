@@ -55,7 +55,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Meetup HCC-CIMAT. <br>Hecho para <typeout>"
-eventDate: "16-17 Agosto, 2018. Entrada libre."
+eventDate: "16-17 Agosto, 2018"
 typeoutTextValues: '"", "universitarios.", "investigadores.", "líderes funcionarios.", "empresarios."'
 typeoutFallback: ""
 heroButtons:
