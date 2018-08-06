@@ -122,10 +122,10 @@
   service: true
 -
   id: 014
-  title: "Meetup HCC: industria, gobierno y ciencia"
+  title: "Meetup HCC: industria, gobierno y ciencia aplicada"
   description: "Es un panel para el diálogo de las problemáticas actuales en los sectores prioritarios para la creación de ideas de solución y potenciar proyectos integrales."
   subtype: workshop
-  speakers: [7]
+  speakers: [7, 5]
   complexity: "Intermedio"
   presentation: ""
   video: ""
