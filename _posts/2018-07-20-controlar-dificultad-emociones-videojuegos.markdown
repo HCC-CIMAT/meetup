@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Seguimiento ocular para detectar mentiras"
-date:   2018-07-11 18:00:00
+title:  "¿Cómo controlar la dificultad e inducir emociones en videojuegos?"
+date:   2018-07-20 20:00:00
 isStaticPost: false
 ---
 **Por Érika Rodríguez**
